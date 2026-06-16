@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env*
+.secrets
+*.secret
+cloudflare.env
+dev.log
+server.log
